@@ -1,0 +1,41 @@
+.containe {
+    background-color: black;
+}
+*{
+    margin : 0;
+}
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 2rem;
+    background-color: rgb(182, 235, 149);
+    
+}
+h1{
+    background-color: rgb(34, 137, 227);;
+    display: flex;
+    max-width: 400px;
+    margin: 70px;
+    padding : 50px;
+   align-items: center;
+}
+@media  screen and (min-width:700px){
+    .h1 {
+        background-color: blueviolet;
+    }
+}
+button {
+    padding: 20px;
+    margin: 30px;
+}
+div {
+    background-color: blue;
+    font-size: larger;
+    padding: 23px;
+}
+input {
+    padding: 17px;
+    background-color: azure;
+    font-size: 17px;
+}

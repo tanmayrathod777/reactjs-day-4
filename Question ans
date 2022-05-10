@@ -1,0 +1,27 @@
+Q) what is constructor in react ?
+-> its object state and which is automatic called during object call and create object automatic
+
+Q) what is render method ?
+-> use in class method it execute when your application is loaded into the browser for first time 
+
+Q) how to use state method in react ?
+-> component can possess internal state when key value pairs which belongs to com
+ponent it render 
+-> same as state change it rerender 
+
+Q) what is update state ? 
+-> its enwure the onclick handler it change the state from component will
+be rerender
+
+q) what is state in class method ? 
+-> where you can store property of values that belongs to the component 
+-> when the state change it rerender the object in constructor method
+
+Q) Event handle in react js ? 
+-> its same as vanila js but with some syntemetic diffrence
+
+Q)  conditional rendering ? 
+-> is logged in - > true 
+render (welcome user )
+else -> 
+render (welcome guest)
